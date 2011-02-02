@@ -1,5 +1,6 @@
 /**
 ** Generate random data from the practical variations of usleep(3).
+** (C) 2011 Clayton Kramer <clayton.kramer@gmail.com>
 ** (C) 2010 Ximin Luo <infinity0@gmx.com>
 **
 ** This program is free software: you can redistribute it and/or modify
